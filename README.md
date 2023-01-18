@@ -47,7 +47,8 @@ Exactly what does `plugin:prettier/recommended` do? Well, this is what it expand
   "semi": false,
   "trailingComma": "none",
   "singleQuote": true,
-  "printWidth": 80
+  "printWidth": 80,
+  "endOfLine": "auto"
 }
 ```
 
